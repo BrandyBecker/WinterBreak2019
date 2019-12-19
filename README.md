@@ -7,3 +7,7 @@ Project Ideas:
 
 4. Have Students Fork and Clone assignment and use their own branches
 5. Possibly a big assignment that each person can work on something and merge to master to create a final product (may need another Repo for this)
+
+6. Mixins & Variables Practice (for the same consistent style throughout the web page)
+
+7. Possibly a website consisted of 7 pages, one for each student, that each student can go in and style and merge into one big project to deploy in the end
