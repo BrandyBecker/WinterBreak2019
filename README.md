@@ -15,3 +15,5 @@ Project Ideas:
 6. Mixins & Variables Practice (for the same consistent style throughout the web page)
 
 7. Possibly a website consisted of 7 pages, one for each student, that each student can go in and style and merge into one big project to deploy in the end
+
+8. Add in JS functions for web templates to get some practice using JS in the real world (buttons/forms)
